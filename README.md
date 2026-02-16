@@ -29,7 +29,7 @@ Each problem folder contains:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 2      |
+| Easy       | 3      |
 | Medium     | 0      |
 | Hard       | 0      |
 
